@@ -133,6 +133,7 @@ a.card:hover .ph img{opacity:.8}
 .act{border-top:1px solid var(--fg);padding-top:14px}
 .act[hidden]{display:none}
 .act img{width:100%;aspect-ratio:4/3;object-fit:cover;margin:0 0 14px}
+.act>a{display:block}
 .a-top{display:flex;justify-content:space-between;gap:12px;font-size:11px;color:var(--muted)}
 .act h3{margin:10px 0 6px;font-size:15px;line-height:1.5;font-weight:600}
 .a-org{margin:0;font-size:13px}
